@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lmendev.github.io
+Token: 805485f825fe223ea6c134dcfca2bfcbac7b5f9372cd38548f4b8423e3a9d9d3
